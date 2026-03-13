@@ -1,5 +1,5 @@
 # week4-ai-assigment
-**Name:MINEY NJERI NDATI**
+**Name:MINEY NJERI NDATI**    
 **Part 1: Data Foundations**
 ## Question 1
 

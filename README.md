@@ -22,7 +22,7 @@ It a logical container that contains related files
 example of a schema is an e-commerce system that tracks customers,their products and orders
 ## Bonus Question 
 Explain the difference between:
-a)A list
+a)A list-
 This is a built-in data structure where we store multiple data ,a list carries data of different data types
 b)A dictionary-
 This is a built-in data structure used to store data in key -value pairs
